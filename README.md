@@ -8,4 +8,4 @@
 StackOverflow
 GitHub
 
-I'm Joe. I code, tinker with computers (both new and old), cycle, play vidoes games and walk.
+I'm Joe. I code, tinker with computers (both new and old), cycle, play video games and walk.
